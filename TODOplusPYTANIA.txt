@@ -1,0 +1,11 @@
+Eksploracja danych:
+1. Liczba słow w poście (logika jak w 3.)
+2. Czy jesli jest # (istnieje) to jaki jest target 
+3. Liczba hasztagów i wpływ na target. (x - target, y- srednia liczba #)
+4. Density plot wplyw godziny na target.(os x - godzina, y - target)
+5. Jaki wpływ ma słowo "not" na target, np. liczba występowań not w jednym poście powoduje ze target = 4(słupek procentowy, bo nierowne dane)
+
+
+Pytania na jutro:
+1. Czy eksploracja danych ma być na całym zbiorze danych nawet jeśli są nierówne dane?
+2. Czy musimy wszystkie dane uwzgeldniac w projekcie, czy mozemy podzielic po rowno?
