@@ -1,0 +1,4 @@
+1. Niemożliwość otworzenia danych - pliki wysłane w złym drzewie katalogów. 
+2. Brak podziału na x_train, y_train, x_valid, y_valid, x_test, y_test - zamiast tego podział na jakieś dwie ramki, które dalej dzielimy na dwie kolejne - uczenie modelu powinno się odbywać na x_train.
+3. Plik nie jest przystosowany do użytku walidatorów, bo sami musimy ręcznie podmieniać nazwy zmiennych na odpowiednie.
+4. Brak możliwości wywołania kodu i sprawdzenia przez walidatorów. 
